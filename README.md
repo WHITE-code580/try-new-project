@@ -43,5 +43,10 @@ exchangeEurosToDollars(euros)
 a. Converts Euros into Dollars
 b. Returns the converted value
 
-
+How to Run:
+1. Download or clone the project
+2. Open index.html in your browser
+   
+Author:
+Created by Maria S.S.
 
