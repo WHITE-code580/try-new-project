@@ -14,3 +14,12 @@ Technologies Used:
 1. HTML5
 2. CSS3
 3. JavaScript
+
+Project Structure:
+project-folder/
+│
+├── index.html
+├── style.css
+├── script.js
+└── Images/
+    └── exchange currency1.png
