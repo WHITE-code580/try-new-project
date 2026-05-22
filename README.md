@@ -30,7 +30,8 @@ How It Works:
 a. JavaScript captures the form submission
 
 Exchange Rate:
-The current conversion used in this project is: 1 Euro = 1.16 Dollars.
+The current conversion used in this project is: 
+1 Euro = 1.16 Dollars.
 
 JavaScript Functions:
 showResult(event)
@@ -48,5 +49,5 @@ How to Run:
 2. Open index.html in your browser
    
 Author:
-Created by Maria S. S./[WHITE-code58]
+Created by Maria S. S. - [WHITE-code58]
 
